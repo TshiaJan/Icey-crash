@@ -4,7 +4,7 @@
 - **App Name / Title:** Ice Crash: Block Slider Drop
 - **Package ID:** `com.janaire.iceycrash`
 - **Developer Name:** Tshiamo Jantjie
-- **Developer Email:** `tshiajan@gmail.com`
+- **Developer Email:** `janaire.dev@gmail.com`
 - **Category:** Puzzle / Casual / Brain Games
 - **Content Rating:** Everyone (PEGI 3 / ESRB Everyone)
 - **Contains Ads:** Yes (Google AdMob rewarded video and interstitial)
@@ -254,7 +254,7 @@ We may update our Privacy Policy periodically. Any revisions will be published o
 ### 8. Contact Us
 For any inquiries or privacy-related concerns, please contact:
 **Tshiamo Jantjie**  
-Email: **tshiajan@gmail.com**
+Email: **janaire.dev@gmail.com**
 ```
 
 ---
